@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "853337678502",
+    "firebase_url": "https://bluealert-99b86.firebaseio.com",
+    "project_id": "bluealert-99b86",
+    "storage_bucket": "bluealert-99b86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853337678502:android:d1f8c638ac999c1a",
+        "android_client_info": {
+          "package_name": "com.example.administrator.bluealert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853337678502-hh57dc2q65upiubaqnvqc7ac01jtt2p0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.administrator.bluealert",
+            "certificate_hash": "aaf4dfa761c35272fe08c309d4c9a9db7b668590"
+          }
+        },
+        {
+          "client_id": "853337678502-04q10h8d9nka44skceanb068lm2cdpi1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZXg9rvkpBxm-WeUesBzn6TGDXz6zxKrc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853337678502-04q10h8d9nka44skceanb068lm2cdpi1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

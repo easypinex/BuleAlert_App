@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="5dip">
+    <!--android:background="@drawable/list_selector"-->
+
+
+    <!--  ListView最左邊的縮略圖 -->
+
+    <!-- 歌曲名-->
+
+    <EditText
+        android:id="@+id/editText3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:ems="10"
+        android:hint="請設定簡易密碼(勿跟魔力一樣)"
+        android:inputType="textPassword"
+        android:minWidth="300dp" />
+
+    <!-- 歌手名 -->
+
+    <!-- 歌曲播放時間 -->
+
+    <!-- 進入播放 -->
+
+</RelativeLayout>
